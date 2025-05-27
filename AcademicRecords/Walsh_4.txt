@@ -1,0 +1,23 @@
+STUDENT INFORMATION
+===================
+ID          : 4
+Name        : Liam Walsh
+Email       : gretb.9993130@gretb.ie
+Phone       : 913000004
+DOB         : 2004-09-01
+Address 1   : 4 Mainguard Street
+Address 2   : 
+PPSN        : 1000004A
+Eircode     : H91 E7CY
+County      : Galway
+Class Group : SCI
+
+MODULE GRADES
+=============
+Code        Module Name            A1   A2  Exm  Award       
+5N1001A     Lab Techniques         30   30   15  Merit       
+5N1001B     Chemistry Principles   15   11    4  Fail        
+5N1001C     Physics Fundamentals    1    1   13  Fail        
+5N1001D     Biology Basics         15   19    7  Fail        
+5N1001E     Mathematical Applications    6   10   39  Pass        
+5N1001F     Data Analysis           6   27   18  Pass        

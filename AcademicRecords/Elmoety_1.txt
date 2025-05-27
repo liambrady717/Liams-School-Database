@@ -1,0 +1,23 @@
+STUDENT INFORMATION
+===================
+ID          : 1
+Name        : Malak Elmoety
+Email       : malak.elmoety@gretb.ie
+Phone       : 835557777
+DOB         : 2005-09-04
+Address 1   : happy road
+Address 2   : happy lane
+PPSN        : 1234567
+Eircode     : W91YT7P
+County      : Kildare
+Class Group : NET
+
+MODULE GRADES
+=============
+Code        Module Name            A1   A2  Exm  Award       
+6N1003A     Network Fundamentals    0    0    0  null        
+6N1003B     Routing and Switching    0    0    0  null        
+6N1003C     Network Security        0    0    0  null        
+6N1003D     Wireless Technologies    0    0    0  null        
+6N1003E     Network Troubleshooting    0    0    0  null        
+6N1003F     Server Administration    0    0    0  null        
